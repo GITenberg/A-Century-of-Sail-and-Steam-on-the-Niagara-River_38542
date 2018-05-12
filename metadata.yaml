@@ -1,0 +1,29 @@
+_repo: A-Century-of-Sail-and-Steam-on-the-Niagara-River_38542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cumberland, Barlow
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '39522'
+    url: http://www.gutenberg.org/2009/agents/39522
+description: ''
+gutenberg_issued: '2012-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38542'
+  lccn: '14014395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steam navigation -- Niagara River (N.Y. and Ont.)'
+- !lcsh 'Shipping -- Niagara River (N.Y. and Ont.)'
+- !lcsh 'Niagara Navigation Company (Toronto, Ont.)'
+- !lcc 'HE'
+title: A Century of Sail and Steam on the Niagara River
+url: http://www.gutenberg.org/ebooks/38542
